@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
+I'm mike, a web developer 💻
 
-<!--
-**Mike7s/Mike7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
 
-Here are some ideas to get you started:
+<div>
+	<img height="50" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/>
+	<img height="50" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/>
+	<img height="50" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+	<img height="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+	<img height="50" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
+	<img height="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONTACT
+I’m available for collaboration — feel free to reach out.
+- [Mail](mailtomichelesimonetti10@libero.it)
+- [LinkedIn](www.linkedin.com/in/michele-simonetti-b88877350)
